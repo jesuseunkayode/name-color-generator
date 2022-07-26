@@ -1,0 +1,13 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+
+header {
+    background-color: teal;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
